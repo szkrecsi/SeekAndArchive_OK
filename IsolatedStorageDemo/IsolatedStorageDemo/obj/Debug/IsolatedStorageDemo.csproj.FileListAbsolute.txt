@@ -1,0 +1,5 @@
+c:\users\szkrecsi\documents\visual studio 2017\Projects\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe.config
+c:\users\szkrecsi\documents\visual studio 2017\Projects\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe
+c:\users\szkrecsi\documents\visual studio 2017\Projects\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.pdb
+c:\users\szkrecsi\documents\visual studio 2017\Projects\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.exe
+c:\users\szkrecsi\documents\visual studio 2017\Projects\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.pdb
